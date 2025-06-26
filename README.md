@@ -1,6 +1,6 @@
 # verilog-practices
 
-### Basic 8 bit full adder
+### 1. Basic 8 bit full adder
 ---
 ##### Boolean expressions
 
@@ -19,3 +19,7 @@ Testbench simulation example
 001100000
 
 Last bit is Cout.
+
+![Waveform](8BitFullAdder/FullAdder.png)
+
+---
